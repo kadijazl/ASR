@@ -1,4 +1,4 @@
-#### Automatic Speech Recognition
+### Automatic Speech Recognition
 
 Transcribe audio, summarise, detect 3R violations, offensive language, and perform sentiment analysis on the transcription.
 
