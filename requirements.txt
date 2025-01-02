@@ -1,0 +1,11 @@
+gradio
+langchain
+numpy
+scikit_learn
+torch
+torchvision
+torchaudio
+whisper
+pyannote.audio
+openai-whisper
+python-dotenv
