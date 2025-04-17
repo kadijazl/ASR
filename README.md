@@ -1,11 +1,16 @@
-### Automatic Speech Recognition
+# Automatic Speech Recognition System
+This project performs end-to-end processing of audio files, including transcription (speech-to-text), summarization, sentiment analysis, offensive language detection, and identification of 3R (Race, Religion, Royalty) policy violations.
 
-Transcribe audio, summarise, detect 3R violations, offensive language, and perform sentiment analysis on the transcription.
+### 🔑 Key Features
+- Audio transcription
+- Summarization of transcription
+- Speaker detection and diarization 
+- Detection of 3R violations and offensive language
+- Sentiment analysis on transcribed content
 
-Models used: OpenAI's Whisper (transcription) and GPT-4o-mini (text analysis).
+### 🔧 Tools Used
+- Transcription: OpenAI Whisper
+- Text Processing: GPT-4o-mini
+- Speaker Diarization: PyAnnote
 
-PyAnnote is used for speaker diarization (https://huggingface.co/pyannote/speaker-diarization-3.1).
-
-Deployed on a remote server.
-
-This is an initiative project I worked on during my internship.
+This project was part of an initiative I developed during my internship, focusing on audio data processing and automation using LLMs.
