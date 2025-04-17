@@ -13,4 +13,4 @@ This project performs end-to-end processing of audio files, including transcript
 - Text Processing: GPT-4o-mini
 - Speaker Diarization: PyAnnote
 
-This project was part of an initiative I developed during my internship, focusing on audio data processing and automation using LLMs.
+This project was part of an initiative I developed during my internship, focusing on audio processing using LLMs.
