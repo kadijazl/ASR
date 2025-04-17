@@ -1,4 +1,4 @@
-# Intelligent Transcription System
+# Intelligent Transcription System 💡
 This project performs end-to-end processing of audio files, including transcription (speech-to-text), summarization, sentiment analysis, offensive language detection, and identification of 3R (Race, Religion, Royalty) policy violations.
 
 ### 🔑 Key Features
@@ -13,4 +13,4 @@ This project performs end-to-end processing of audio files, including transcript
 - Text Processing: GPT-4o-mini
 - Speaker Diarization: PyAnnote
 
-This project was part of an initiative I developed during my internship, focusing on audio processing using LLMs.
+ℹ️ This project was part of an initiative I developed during my internship, focusing on audio processing using LLMs.
