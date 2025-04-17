@@ -1,4 +1,4 @@
-# Automatic Speech Recognition System
+# Intelligent Transcription System
 This project performs end-to-end processing of audio files, including transcription (speech-to-text), summarization, sentiment analysis, offensive language detection, and identification of 3R (Race, Religion, Royalty) policy violations.
 
 ### 🔑 Key Features
